@@ -2,7 +2,7 @@
 
 
 
-Created by Matthew Paulino with help from my friend Christian McCormick:
 
+Created by Matthew Paulino with help from my friend Christian McCormick:
 [Demo here](https://guamcracker-newspaper-scraper.herokuapp.com/)
 
